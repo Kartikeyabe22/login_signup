@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370990706310",
+    "project_id": "hackathon-caf6b",
+    "storage_bucket": "hackathon-caf6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370990706310:android:7d963f0aedc2b416a9eb07",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370990706310-rgamr86ib50d9q8ahnt0bdegrorsn2o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_WL9V7EBZd3QwVcJNKA8B9wWcuY_FkfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370990706310-rgamr86ib50d9q8ahnt0bdegrorsn2o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
